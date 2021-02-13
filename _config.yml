@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "aerain"
+  name             : "horobito"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "어리숙한 개발자"
+  bio              : "걸음마 떼는중"
   location         : "Seoul"
-  email            : "j40f893@gmail.com"
+  email            : "odkfu1@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
