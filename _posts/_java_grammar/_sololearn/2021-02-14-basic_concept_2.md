@@ -1,4 +1,11 @@
-﻿
+---
+title: "basic concept 2"
+permalink: /categories/javaGrammer/sololearn
+layout: category
+author_profile: true
+taxonomy: sololearn
+---
+
 
 ## 03. java commnets
 
