@@ -1,7 +1,8 @@
-﻿---
+---
 title: "Basic Concept 2"
 permalink: /sololearn/
 layout: single
+
 ---
 
 ## 03. java commnets
