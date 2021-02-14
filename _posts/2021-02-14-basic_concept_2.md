@@ -1,5 +1,5 @@
 ---
-title: "Basic Concept 1"
+title: "Basic Concept 2"
 category: "sololearn"
 tags: "java"
 
