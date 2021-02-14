@@ -1,4 +1,11 @@
-﻿
+---
+title: "basic concept 1"
+permalink: /categories/javaGrammer/sololearn
+layout: category
+author_profile: true
+taxonomy: sololearn
+---
+
 
 # 01. Introduction of java 
 
