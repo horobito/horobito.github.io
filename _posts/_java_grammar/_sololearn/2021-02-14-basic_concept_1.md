@@ -2,6 +2,7 @@
 title: "Basic Concept 1"
 category: "sololearn"
 tags: "java"
+
 ---
 
 
