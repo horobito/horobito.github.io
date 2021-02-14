@@ -1,6 +1,8 @@
 ---
-title: "잘 되는건가"
-category: "sololearn"
+title: "내부의 내부 테스트"
+category: "java_grammar/sololearn"
 tags: "ggg"
 
 ---
+
+asdfasdf
