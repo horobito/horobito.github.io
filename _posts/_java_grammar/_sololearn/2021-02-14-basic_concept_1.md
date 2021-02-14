@@ -1,10 +1,10 @@
 ---
 title: "basic concept 1"
-permalink: /categories/javaGrammer/sololearn
-layout: category
-author_profile: true
 category: "JavaGrammar"
 tags: "java"
+permalink: /categories/javaGrammar/sololearn
+layout: category
+author_profile: true
 taxonomy: sololearn
 ---
 
