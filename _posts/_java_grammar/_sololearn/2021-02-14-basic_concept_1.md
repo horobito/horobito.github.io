@@ -1,8 +1,8 @@
-
 ---
 title: "Basic Concept 1"
 category: "sololearn"
 tags: "java"
+
 permalink: /sololearn/basic_conecept1
 layout: single
 ---
