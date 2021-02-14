@@ -1,6 +1,8 @@
 ---
 title: "basic concept 1"
-permalink: /categories/javaGrammer/sololearn
+category: "sololearn"
+tags: "java", "gammar"
+permalink: /categories/javaGrammar/sololearn
 layout: category
 author_profile: true
 taxonomy: sololearn
