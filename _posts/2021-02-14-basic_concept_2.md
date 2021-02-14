@@ -1,7 +1,8 @@
-﻿---
-title: "Basic Concept 2"
-permalink: /sololearn/
-layout: single
+---
+title: "Basic Concept 1"
+category: "sololearn"
+tags: "java"
+
 ---
 
 ## 03. java commnets
