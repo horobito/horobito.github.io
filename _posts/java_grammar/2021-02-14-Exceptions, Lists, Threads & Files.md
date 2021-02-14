@@ -1,9 +1,8 @@
 ---
-​---
-title: "폴더 test"
+title: "잘 되는건가"
 category: "java_grammar"
 tags: "ggg"
-​---
+---
 
 # 제목
 
