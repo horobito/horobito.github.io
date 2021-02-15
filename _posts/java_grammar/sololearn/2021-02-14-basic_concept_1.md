@@ -1,10 +1,13 @@
-﻿```
+
 ---
 title: "Basic Concept 1"
 category: "sololearn"
-tags: "java"
+tags: 
+- java
+- sololearn
+- JavaGrammar
+
 ---
-```
 
 # 01. Introduction of java 
 
