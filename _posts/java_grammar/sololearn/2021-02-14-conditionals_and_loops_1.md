@@ -1,5 +1,5 @@
 ---
-title: "Conditionanls and Loops(1)"
+title: "3. Conditionanls and Loops(1)"
 category: "sololearn"
 tags: 
 - Java

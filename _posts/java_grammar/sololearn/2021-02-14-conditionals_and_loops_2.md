@@ -1,5 +1,5 @@
 ---
-title: "﻿Conditionals and Loops(2)"
+title: "4. Conditionals and Loops(2)"
 category: "sololearn"
 tags: 
 - Java
