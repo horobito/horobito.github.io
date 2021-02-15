@@ -1,7 +1,7 @@
 ---
 layout: category
 title: database
-permalink: '/database
+permalink: '/database'
 ---
 
 database category
