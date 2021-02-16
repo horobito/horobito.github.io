@@ -1,6 +1,6 @@
 ---
 layout: category
-title: web
+title: backjoon
 permalink: '/algorithm/backjoon'
 ---
 
